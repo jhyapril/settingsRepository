@@ -1,0 +1,2 @@
+# settingsRepository
+Store editor settings.
